@@ -13,13 +13,14 @@ Click on above button for google colab file
 
 ## 📑 Table of Contents
 - [Overview](#overview)  
-- [Motive / Goal](#motive--goal)  
-- [Problem Statement](#problem-statement)  
-- [Solution / Approach](#solution--approach)  
-- [Tech Stack](#tech-stack)  
-- [Concepts Involved](#concepts-involved)  
-- [How to Build & Run](#how-to-build--run)  
-- [Example Input & Output](#example-input--output)  
+- [Motive / Goal](#-motive--goal)  
+- [Problem Statement](#-problem-statement)  
+- [Solution / Approach](#-solution--approach)  
+- [Tech Stack](#-tech-stack)  
+- [Concepts Involved](#-concepts-involved)  
+- [How to Build & Run](#-how-to-build--run)  
+- [Example Input & Output](#-example-input--output)  
+
 
 ---
 
